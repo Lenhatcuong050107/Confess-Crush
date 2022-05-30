@@ -1,7 +1,7 @@
 const CONFIG = {
-    titleWeb : "Hi"
-    introTitle : 'Phương'
-    introDesc: `Trái đất vốn lạ thường
+    titleWeb : "xin chào",
+    introTitle : 'Phương',
+    introDesc : Thường  thì  vốn trái  đất 
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
